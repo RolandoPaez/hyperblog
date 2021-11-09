@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y Git Hub de Platzi.
 * El verdadero amor por las buenas practicas
 * Trucos muy locos
 * Las personalidades multiples del profesor
+* Creado por el Platzi team
 
 Y como recordatorio: **este README es un chiste**, gracias por haberlo leido.
